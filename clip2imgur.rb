@@ -1,8 +1,8 @@
 class Clip2imgur < Formula
   desc "A simple macOS command line tool for uploading your copied image to Imgur"
   homepage "https://github.com/xiaohk/clip2imgur"
-  url "https://github.com/xiaohk/clip2imgur/releases/download/v0.8/clip2imgur-0.8.0.zip"
-  sha256 "a8c5f73e57ccf324a57952b737065516b4866481a387724330fd8cf5528aa567"
+  url "https://github.com/xiaohk/clip2imgur/releases/download/v0.9.0/clip2imgur-0.9.0.tar.gz"
+  sha256 "a1d4dbf13b91ef53d3fe1ec77accad331d44705e2b91000e3177c84764657dc1"
 
   bottle :unneeded
 
