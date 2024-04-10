@@ -3,8 +3,8 @@ class Clip2imgur < Formula
 
   desc "Shiny new formula"
   homepage "https://github.com/xiaohk/clip2imgur"
-  url "https://files.pythonhosted.org/packages/42/51/63fa1882d2d1ed4e4ce6cf0ddca1aa2ba0c8010cec6f8a94ac81423df7c1/clip2imgur-0.9.2.tar.gz"
-  sha256 "98cf59809d1fe2b6aa071ac5708ad93462175a715048f4d6ed1a09ce6a9ff0e9"
+  url "https://files.pythonhosted.org/packages/e8/ae/cfba36a2b029549715be9247dc6c93eb4164e6ed7a9fa9b0e2822485209a/clip2imgur-0.9.3.tar.gz"
+  sha256 "873767e081731f3ee7c688dd1cd3630a47e7b00ffbff9ecc43d37bbec8ab6f44"
 
   depends_on "python3"
 
